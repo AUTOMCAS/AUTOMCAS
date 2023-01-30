@@ -2,7 +2,7 @@
 
 [Learning Journey](#learning) | [Makers Academy experience](#makers) | [Projects](#projects) | [Skills](#skills) | [Hobbies with benefits](#hobbies) | [Experience](#experience) | [Education](#education)
 
-My name is Chris and I am a Junior Software Developer based in London. I enjoyed a career in Engineering Education for 7 years before learning to become a software developer at [Makers Academy](https://makers.tech/). I have always lived to discover, to learn, to overcome, to build and to solve problems. I found the same satisfaction with software development but with the extra advantages that its digital nature enables. Rapid access to information, tools and solutions. An environment made for iteration, to be able to test, experiment, and rapidly improve a project.
+I am a Junior Software Developer based in London. I enjoyed a career in Engineering Education for 7 years before learning to become a software developer at [Makers Academy](https://makers.tech/). I have always lived to discover, to learn, to overcome, to build and to solve problems. I found the same satisfaction with software development but with the extra advantages that its digital nature enables. Rapid access to information, tools and solutions. An environment made for iteration, to be able to test, experiment, and rapidly improve a project.
 
 I love to:
 
@@ -40,7 +40,7 @@ A highly selective 16 week intensive software development bootcamp.
 - Full stack: Developing projects with front and back ends using a range of appropriate technologies. Example MERN stack: [GrumbleBook - A Facebook clone](https://github.com/AUTOMCAS/grumbleBook)
 - Databases: Using PostgreSQL and MongoDB to manage databases using create, read, update and delete operations.
 - APIs: Using APIs like REST APIs to transfer data using functions like GET, POST and PATCH. The [Votewatch](https://github.com/tomallens/votewatch) project uses the external House of Commons API to obtain information on MPs
-- Wellbeing, productivity and empathy: Practiced appropriate break taking and time management, alone and when part of a group or pair. Through my patience and integrity I endeavoured to create a feeling of safety in a learning environment where feedback can be freely given and received.
+- Wellbeing, productivity and empathy: Practised appropriate break taking and time management, alone and when part of a group or pair. Through my patience and integrity I endeavoured to create a feeling of safety in a learning environment where feedback can be freely given and received.
 - Agile workflow: Following Agile project development processes to build projects as part of a team. Utilising planning sessions, ticketing, standups, sprints, retros and iterative development.
 - Collaboration: Pairing daily over challenging material with people with a range of personalities and ways of working. Working closely with a team to develop projects with multiple features, technologies and short deadlines.
 
@@ -60,7 +60,7 @@ A highly selective 16 week intensive software development bootcamp.
 **Dedicated to learning**
 
 - I think learning and self development is one of the most important things in life. I have always enjoyed finding out about things and how they work and applying this practically.
-- I enjoy sharing my knowledge and strategies with others. I get great satisfaction from helping others learn new things,
+- I enjoy sharing my knowledge and strategies with others. I get great satisfaction from helping others learn new things.
 - I recorded some of my experiences in my Makers learning journey [here](https://github.com/AUTOMCAS/learning_journey).
 
 **Plays well with others**
@@ -76,12 +76,12 @@ A highly selective 16 week intensive software development bootcamp.
 - I value good planning, organisation and structure.
 - I have led the design and planning of small and large projects, the largest being the redesign of an entire engineering department of 3 workshops, a computing suite and 3 support rooms.
 - Within a team or when working alone I enjoy creating diagrams and other supporting documents to help both in planning and as a communication aid. Planning diagrams: [Bowling challenge](https://raw.githubusercontent.com/AUTOMCAS/bowling-challenge/main/bowling-js-diagram.png), [Bank tech test](https://raw.githubusercontent.com/AUTOMCAS/bank_tech_test/main/diagram.png)
-- The TDD process and Object Orientated Programming fits right into my working ethos of systematic, clean and clear way of working through projects.
+- The TDD process and Object Oriented Programming fits right into my working ethos of systematic, clean and clear way of working through projects.
 
 **Problem solving and attention to detail**
 
-- Coming from an engineering background I am well practiced with breaking a problem down to its core components and applying a wide and deep understanding to solve each problem in turn.
-- As a software developer my problem solving ability has increased greatly though continuous self reflection and learning new techniques such as TDD.
+- Coming from an engineering background I am well practised with breaking a problem down to its core components and applying a wide and deep understanding to solve each problem in turn.
+- As a software developer my problem solving ability has increased greatly through continuous self reflection and learning new techniques such as TDD.
 
 ## <a name="hobbies">Hobbies with benefits</a>
 
@@ -96,7 +96,7 @@ The fantastic challenges of building a spaceship in a game called Space Engineer
 - There are always challenges to overcome, some expected and some surprises, how do you solve these with the given tools and components?
 - How do you know what works? Being able to build parts in isolation, rapidly test and reconfigure leads to innovation and success.
 
-In contrast to being absorbed by the world behind a screen, I very much love the natural world. I find it fascinating and could (and do) spend hours observing behaviors, noises, movement and appearance of plants and animals. I find it very meditative, great for my wellbeing and satisfies a deep curiosity for discovery.
+In contrast to being absorbed by the world behind a screen, I very much love the natural world. I find it fascinating and could (and do) spend hours observing behaviours, noises, movement and appearance of plants and animals. I find it very meditative, great for my wellbeing and satisfies a deep curiosity for discovery.
 
 ## <a name="experience">Experience</a>
 
@@ -108,23 +108,24 @@ In contrast to being absorbed by the world behind a screen, I very much love the
 
 #### Senior Engineering Technician, The UCL Academy, London (2014 - 2022)
 
-- Collaborating with staff to develop a fantastic Engineering curriculum for students aged 11-18.
-- Teaching staff and students practical and theoretical Engineering skills.
-- Training and mentoring junior technicians.
-- Maintaining a safe work environment with high wellbeing and health and safety standards.
-- Planning and developing projects and exercises with tight deadlines and specifications.
-- Running and maintaining equipment and machines.
+- Collaborated with staff to develop a fantastic Engineering curriculum for students aged 11-18. Each year saw many graduates secure places in top Russell Group universities.
+- Planned and supervised a £100,000 refurbishment of the Engineering department, liaising with senior staff, external specialists and contractors.
+- Mentored and trained junior technicians to uphold the department's high standards.
+- Taught staff and students practical and theoretical Engineering skills.
+- Maintained a safe work environment with high wellbeing and health and safety standards.
+- Planned and developed projects and exercises with tight deadlines and specifications.
+
 
 #### Intern, Bamboo Bicycle Club, London (2014 - 2015)
 
-- Developing new ideas and products and improving existing designs.
-- Producing and amending CAD models and drawings.
-- Producing instruction manuals and designing product packaging.
+- Developed new ideas and products and improving existing designs.
+- Produced and amended CAD models and drawings.
+- Produced instruction manuals and designing product packaging.
 
 #### Projects intern, London Sustainability Exchange, London (2013)
 
 - Graphical work such as producing logos, flyers and banners for the organisation.
-- Conducting research and aiding with idea generation for projects.
+- Conducted research and aiding with idea generation for projects.
 
 #### Product design and development, Design and Technology Association, London (2012)
 
