@@ -31,7 +31,7 @@ Further detail including key challenges, screenshots and videos.
 | [SlothsBnB - An AirBnB clone ](https://github.com/AUTOMCAS/slothsbnb)                                      | A one week, 4 member group project to develop a full stack web application that allows users to list spaces they have available and to hire spaces for the night.                                                                   | Ruby, Rspec, PostgreSQL, Sinatra, Heroku                              |
 | [Bank App tech test](https://github.com/AUTOMCAS/bank_tech_test)                                           | A small app allowing a user to deposit, withdraw and print a statement using the command line. This was a tech test to demonstrate clean code and TDD                                                                               | JavaScript, Jest                                                      |
 | [Gilded Rose tech test](https://github.com/AUTOMCAS/gilded_rose_tech_test)                                 | A fantasy shop keeping app. This tech test focuses on writing tests, refactoring existing code and extend it to be clean and adaptable.                                                                                             | JavaScript, Jest                                                      |
-| [Bowling Challenge](https://github.com/AUTOMCAS/bowling-challenge)                                         | A bowling scorecard which continuously calculates the score for each frame of the deceptively complex game of bowling.                                                                                                              | JavaScript, Jest                                                      |
+
 
 ## <a name="learning">Learning Journey</a>
 
