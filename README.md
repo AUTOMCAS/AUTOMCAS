@@ -37,7 +37,7 @@ I recorded my my learning journey through Makers Academy on my way to becoming a
 - Diagrams.
 - Having good routines.
 
-[Diagram example exploring Asynchronicity in JavaScript]((https://github.com/AUTOMCAS/learning_journey/blob/main/diagrams/javascript/eventloop-js.png?raw=true))
+[Diagram example exploring Asynchronicity in JavaScript](https://github.com/AUTOMCAS/learning_journey/blob/main/diagrams/javascript/eventloop-js.png?raw=true)
 
 ## <a name="makers">Makers Academy experience</a>
 
