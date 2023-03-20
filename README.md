@@ -17,12 +17,12 @@ Further detail including key challenges, screenshots and videos.
 | ---------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------- |
 | [Sheddington - A membership management system](https://github.com/AUTOMCAS/sheddington-membership-manager) | Full-stack application to manage memberships for a local charity.                                                                                                                                                                   | Typescript, React, CSS, Node.js, Sequelize, PostgreSQL, Jest, Cypress |
 | [Stress Bucket API](https://github.com/AUTOMCAS/stress-bucket-api) | Back-end API with relational database for a planned full-stack application. Helps understand stress and wellbeing using the stress bucket visualisation metaphor. | Spring boot, Java, PostgreSQL, JUnit |
-| [Dad jokes](https://github.com/AUTOMCAS/dadjokes)                                                          | A simple project to use an external API to display a random joke on the screen every button click. [Publushed site](https://automcas.github.io/dadjokes/)                                                                           | Typescript, React, CSS, Cypress                                       |
+| [Dad jokes](https://github.com/AUTOMCAS/dadjokes)                                                          | A simple project to use an external API to display a random joke on the screen every button click. [Published site](https://automcas.github.io/dadjokes/)                                                                           | Typescript, React, CSS, Cypress                                       |
 | [Votewatch - A full-stack phone application](https://github.com/tomallens/votewatch)                       | A two week, 6 member collaborative project to develop a full-stack, phone first application from concept to product. [Presentation](https://youtu.be/jNPUt79UpsA?t=134), [Video demonstration](https://www.youtube.com/watch?v=ygtw67MctDw) | React Native, Node.js, Express, PostgreSQL, Sequelize, Jest           |
-| [GrumbleBook - A Facebook clone](https://github.com/AUTOMCAS/grumbleBook)                                  | A two week, 6 member collaborative project to develop a full-stack social media web application. [Video demonstration](https://github.com/AUTOMCAS/grumbleBook/blob/main/planning/presentation/demo.mp4)                                    | React, Node.js, Express, MongoDB, Firebase, Jest, Cypress             |
+| [GrumbleBook - A social media application](https://github.com/AUTOMCAS/grumbleBook)                                  | A two week, 6 member collaborative project to develop a full-stack social media web application. [Video demonstration](https://github.com/AUTOMCAS/grumbleBook/blob/main/planning/presentation/demo.mp4)                                    | React, Node.js, Express, MongoDB, Firebase, Jest, Cypress             |
 | [SlothsBnB - An AirBnB clone ](https://github.com/AUTOMCAS/slothsbnb)                                      | A one week, 4 member collaborative project to develop a full-stack web application that allows users to list spaces they have available and to hire spaces for the night.                                                                   | Ruby, Rspec, PostgreSQL, Sinatra, Heroku                              |
 | [Bank App tech test](https://github.com/AUTOMCAS/bank_tech_test)                                           | A small app allowing a user to deposit, withdraw and print a statement using the command line. This was a tech test to demonstrate clean code and TDD                                                                               | JavaScript, Jest                                                      |
-| [Gilded Rose tech test](https://github.com/AUTOMCAS/gilded_rose_tech_test)                                 | A fantasy shop keeping app. This tech test focuses on writing tests, refactoring existing code and extend it to be clean and adaptable.                                                                                             | JavaScript, Jest                                                      |
+| [Gilded Rose tech test](https://github.com/AUTOMCAS/gilded_rose_tech_test)                                 | A fantasy shop keeping app. This tech test focuses on writing tests, refactoring existing code and extending it to be clean and adaptable.                                                                                             | JavaScript, Jest                                                      |
 
 
 ## <a name="learning">Learning Journey</a>
@@ -58,7 +58,7 @@ A highly selective 16 week intensive software development bootcamp.
 **Dedicated to learning**
 
 - I am passionate about learning and I enjoy approaching new challenges as opportunities for self development.
-- I have always enjoyed finding out about things and how they work and applying this to creativly solve problems.
+- I have always enjoyed finding out about things and how they work and applying this to creatively solve problems.
 - I enjoy sharing my knowledge and strategies with others.
 - I recorded some of my experiences in my Makers learning journey [here](https://github.com/AUTOMCAS/learning_journey).
 
@@ -113,26 +113,6 @@ In contrast to being absorbed by the world behind a screen, I very much love the
 - Mentored and trained junior technicians to uphold the department's high standards
 - Planned and developed projects and exercises with tight deadlines and specifications.
 - Planned and supervised a £100,000 refurbishment of the Engineering department.
-
-#### Intern, Bamboo Bicycle Club, London (2014 - 2015)
-
-- Developed new ideas and products and improving existing designs.
-- Produced and amended CAD models and drawings.
-- Produced instruction manuals and designing product packaging.
-
-#### Projects intern, London Sustainability Exchange, London (2013)
-
-- Graphical work such as producing logos, flyers and banners for the organisation.
-- Conducted research and aiding with idea generation for projects.
-
-#### Product design and development, Design and Technology Association, London (2012)
-
-- Co-wrote educational materials for primary aged children, supporting development of practical skills in design and technology.
-- Published in design and technology association’s magazine for Primary school teachers.
-
-#### Conservation volunteering, The Conservation Volunteers, London (2011 - 2013)
-
-- Included Biodiversity surveying and woodland maintenance with Kingston University and The Conservation Volunteers (formerly BCTV)
 
 ## <a name="education">Education</a>
 
